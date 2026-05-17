@@ -1,5 +1,5 @@
 # dress_selector_ibr
-Author - Abdullah Ibrahim
+Author - Abdullah Ibrahim (Main Dev)
 <br>
 Description:
 <br>
